@@ -1,4 +1,4 @@
-# blog
+# Blog/Article Application
 This is a Blog application useful in taking markdowns,blog posts,to-do list,articles
 Node.js / Express / Mongodb.
 # HOME
